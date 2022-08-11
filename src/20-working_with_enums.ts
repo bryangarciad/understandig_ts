@@ -11,5 +11,5 @@ const person: {
   name: "ramses",
   age: 27,
   hobbies: ["coding", "videogames"],
-  role: [1, "software engineer"]
+  role: [1, "software engineer"],
 };
